@@ -1,0 +1,7 @@
+.idea
+*.zip
+ExternalLibraries
+out
+test
+java.iml
+test*
